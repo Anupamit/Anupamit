@@ -13,6 +13,7 @@ Here are some project ideas to get you started:
   **[ Life Game](https://anupamit.github.io/Life_Game/)**, **[Maze Runner](https://anupamit.github.io/Maze-Runner/)**, 
   **[ Movie Detail](https://movie-world-sablu.web.app/)**,  **[Realtime Search](https://anupamit.github.io/Real-Time-React-Search/)**, 
  **[ Rideinway](https://ride-share-inway.web.app/)**, **[ Search Movies](https://search-movie-data.web.app/)**, **[ Timer](https://anupamit.github.io/Timer/)**,
- **[ Water Tank Problem](https://anupamit.github.io/water-tank-problem-vanilla-js/)**, **[ World Map](https://anupamit.github.io/worldmap/)**
+ **[ Water Tank Problem](https://anupamit.github.io/water-tank-problem-vanilla-js/)**, **[ Weather App](https://anupamit.github.io/Weather-app-react/)**,
+ **[ World Map](https://anupamit.github.io/worldmap/)**
 
  <img src="https://komarev.com/ghpvc/?username=Anupamit" width=80px/>	

@@ -11,7 +11,8 @@ Here are some project ideas to get you started:
   **[ Git Issues](https://gitissues-91971.web.app/)**,
   **[ Javascript](https://github.com/Anupamit/Js-Learn)**, **[Keeper App](https://keep-anupamit.web.app/)**, **[ Library Management](https://library-man.web.app/)**,
   **[ Life Game](https://anupamit.github.io/Life_Game/)**, **[Maze Runner](https://anupamit.github.io/Maze-Runner/)**, 
-  **[ Movie Detail](https://movie-world-sablu.web.app/)**,  **[Realtime Search](https://anupamit.github.io/Real-Time-React-Search/)**, 
+  **[ Movie Detail](https://movie-world-sablu.web.app/)**, **[Number Input](https://anupamit.github.io/NumberInput/)**,
+  **[Realtime Search](https://anupamit.github.io/Real-Time-React-Search/)**, 
  **[ Rideinway](https://ride-share-inway.web.app/)**, **[ Search Movies](https://search-movie-data.web.app/)**, **[ Timer](https://anupamit.github.io/Timer/)**,
  **[ Water Tank Problem](https://anupamit.github.io/water-tank-problem-vanilla-js/)**, **[ Weather App](https://anupamit.github.io/Weather-app-react/)**,
  **[ World Map](https://anupamit.github.io/worldmap/)**

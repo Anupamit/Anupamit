@@ -17,4 +17,4 @@ Here are some project ideas to get you started:
  **[ Water Tank Problem](https://anupamit.github.io/water-tank-problem-vanilla-js/)**, **[ Weather App](https://anupamit.github.io/Weather-app-react/)**,
  **[ World Map](https://anupamit.github.io/worldmap/)**
 
- <img src="https://komarev.com/ghpvc/?username=Anupamit" width=80px/>	
+ <img src="https://komarev.com/ghpvc/?username=Anupamit" width=100px/>	

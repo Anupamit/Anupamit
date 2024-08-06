@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate web developer, and here are some 
 - **[World Map](https://anupamit.github.io/worldmap/)**: A world map viewer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anupamit)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupamit&)
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
 

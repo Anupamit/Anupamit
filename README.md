@@ -1,5 +1,3 @@
-Sure, here's a polished version of the README file:
-
 # [Hello! I'm Anupam Kumar 👋](https://portfolio-anupamit.web.app/)
 
 Welcome to my GitHub profile! I'm a passionate web developer, and here are some of my projects:

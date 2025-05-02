@@ -1,12 +1,45 @@
-# [Hello! I'm Anupam Kumar 👋](https://portfolio-anupamit.web.app/)
+# Hi there, I'm Anupam Kumar 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer, and here are some of my projects:
+[![My Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome)](https://portfolio-anupamit.web.app/)
 
-### Projects
-- **[School Admin](https://schooladmin-hai.vercel.app/)**: (username - anupamit011@gmail.com, pass- 1234567)
-- **[Shop Now](https://shopnow-shopping-wala-web.vercel.app/home)**: Shopping application.
-- **[Water Tank Problem](https://anupamit.github.io/water-tank-problem-vanilla-js/)**: Solving the water tank problem using vanilla JavaScript.
-- **[World Map](https://anupamit.github.io/worldmap/)**: A world map viewer.
+Welcome to my GitHub profile! I'm a passionate web developer focused on building interactive and user-friendly applications.
+
+---
+
+## 🚀 About Me
+
+* 💻 I love coding and creating things for the web.
+* 🌱 I’m always learning new technologies and improving my skills.
+* 🤝 Open to collaboration on interesting web projects.
+* 📫 How to reach me: [anupamit011@gmail.com] or connect via LinkedIn ([see below](https://www.linkedin.com/in/anupamit/)).
+
+---
+
+## ✨ My Projects
+
+Here are some of the projects I've worked on:
+
+### 1. School Admin Panel
+   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://schooladmin-delta.vercel.app/auth/login)
+   * A web application for managing school administration tasks.
+   * **Demo Credentials:**
+        * **Role:** Admin | **Username:** `sam_admin@schooladmin.com` | **Password:** `123456`
+        * **Role:** Teacher | **Username:** `sam_teacher@schooladmin.com` | **Password:** `123456`
+   * *(**Note:** These are public demo credentials. Avoid putting sensitive or real user credentials in public READMEs.)*
+
+### 2. Shop Now E-commerce App
+   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://shopnow-shopping-wala-web.vercel.app/home)
+   * A functional front-end for an e-commerce shopping website.
+
+### 3. Water Tank Problem Solver
+   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://anupamit.github.io/water-tank-problem-vanilla-js/)
+   * A visual implementation solving the classic "water tank" problem using vanilla JavaScript.
+
+### 4. Interactive World Map
+   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://anupamit.github.io/worldmap/)
+   * A simple web-based world map viewer.
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anupamit)
 

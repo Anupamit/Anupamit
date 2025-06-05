@@ -31,14 +31,6 @@ Here are some of the projects I've worked on:
    [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://shopnow-shopping-wala-web.vercel.app/home)
    * A functional front-end for an e-commerce shopping website.
 
-### 3. Water Tank Problem Solver
-   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://anupamit.github.io/water-tank-problem-vanilla-js/)
-   * A visual implementation solving the classic "water tank" problem using vanilla JavaScript.
-
-### 4. Interactive World Map
-   [![Visit Project](https://img.shields.io/badge/Live%20Demo-blue?style=flat-square)](https://anupamit.github.io/worldmap/)
-   * A simple web-based world map viewer.
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anupamit)
